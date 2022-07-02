@@ -15,5 +15,5 @@ jobs:
           username: VictorChin
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: VictorChin/publish-packages/game
+          repository: victorchin/publish-packages/game
           tag_with_sha: true
